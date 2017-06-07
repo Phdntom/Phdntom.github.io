@@ -11,8 +11,10 @@ var myApp = {};
 
     context.rollData = function(name) {
 
-        var N = Math.round( Math.random()*2 );
-        h = 4; //for N = 3,4,5 this needs to be chagned
+        L = dataList.length
+
+        var N = Math.floor( Math.random()*L );
+        h = 5; //for N = 3,4,5 this needs to be chagned
         w = 2 * h - 1;
         this.animate(name,h,w,dataList[N]);
     }
