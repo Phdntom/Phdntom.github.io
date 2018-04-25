@@ -1,0 +1,164 @@
+#map {
+ width: 600px;
+ float: left;
+}
+
+#info {
+ padding-left: 10px;
+ width: 400px;
+ float: left;
+
+}
+
+#title {
+ font-size: 20px;
+ font-weight: bold;
+ font-color: black;
+ padding: 10px;
+ text-align: center;
+}
+
+#legend {
+}
+
+svg {
+ display: block;
+ margin: 0 auto;
+}
+
+.background {
+  fill: white; /*backdrop color*/
+  pointer-events: none;
+}
+
+.legend-title {
+    text-align: left;
+    margin-bottom: 8px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 12px;
+}
+.legend-scale ul {
+    margin: 0;
+    padding: 0;
+    float: left;
+    list-style: none;
+}
+.legend-scale ul li {
+    display: block;
+    float: left;
+    width: 79px;
+    margin-bottom: 6px;
+    text-align: center;
+    font-size: 12px;
+    list-style: none;
+}
+ul.legend-labels li span {
+    display: block;
+    float: left;
+    height: 15px;
+    width: 79px;
+}
+
+#states {
+  fill: #888;
+}
+
+#states .active {
+  fill: orange;
+}
+
+#states .hovered {
+    fill: pink;
+}
+
+state-name .active {
+    fill: black;
+    fill-opacity: 1;
+}
+state-name {
+    fill-opacity: 0;
+}
+
+#state-borders {
+  fill: none; /* is this a bug? */
+  stroke: black;
+  stroke-width: 1.5px;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  pointer-events: none;
+}
+
+#counties {
+    fill:   #aaa;
+}
+
+#counties .active {
+    fill:   red;
+}
+
+#county-borders {
+  fill: none; /* is this a bug? */
+  stroke: #222;
+  stroke-width: 0.5px;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  pointer-events: none;
+}
+
+state-label {
+    fill: red;
+    fill-opacity: .5;
+    font-size: 20px;
+    font-weight: 300;
+    text-anchor: middle;
+
+}
+body {
+  font: 10px sans-serif;
+}
+
+/*
+span {
+    border:solid 1px red;
+}
+*/
+
+.arc path {
+  stroke: #fff;
+}
+
+path.negative {
+  fill: #7FC97F;
+}
+#legend-negative {
+  background: #7FC97F;
+}
+
+path.cool {
+  fill: #BEAED4;
+}
+#legend-cool {
+  background: #BEAED4;
+}
+
+path.neutral {
+  fill: #FDC086;
+}
+#legend-neutral {
+  background: #FDC086;
+}
+
+path.warm {
+  fill: #FFFF99;
+}
+#legend-warm {
+  background: #FFFF99;
+}
+
+path.positive {
+  fill: #386CB0;
+}
+#legend-positive {
+  background: #386CB0;
+}

@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html>
+
+
+<meta charset="utf-8">
+<head>
+    <title> Lyrics and Sentiments </title>
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+
+
+
+
+<body>
+
+<h1> Lyrics & Sentiments </h1>
+<a class="github" href="https://github.com/Phdntom/lyrics_sentiment">on github</a>
+<h2> What can we learn?</h2>
+
+<h2>
+Popular songs contain more negative sentiment now than in previous years.
+</h2>
+
+<div class=figureobject>
+<div class='colA'>
+<img src="images/contour_jittered_map.png" alt="contour map" width="590" height="600">
+</div><div class='colB'>
+<img src="images/scatter_plot.png" alt="scatter plot" width="590" height="600">
+</div>
+<div class="figurecaption">
+<p> <strong>Left</strong>: A color map of song lyrics sentiment, (positive,negative) encode the (x,y) coordinates and the year of the song is encoded in color. The strongly negative region of the map is dominated by recent songs.
+</p>
+<p> <strong>Right</strong>: Positive and negative components are separately shown versus the year of the song. Negative sentiment has grown with time while positive sentiment has remained mostly flat.
+</p>
+</div>
+</div>
+
+
+<h2> Sentiment Scoring Basics </h2>
+
+<p> To create the images above, I started with a database of chart topping songs. For each song, I scored the song's lyrics using a word-sentiment dictionary. A word-sentiment dictionary can be as simple as a tab separated file, usually looking something like this:
+</p>
+
+
+<div class = "text">
+<pre class="prettyprint">
+#AFINN-111.txt, Licensed (ODbL) v1.0
+affection   3
+amazing 4
+angry   -3
+brave   2
+fraudster   -4
+mandatory   -1
+</pre>
+</div>
+
+
+<p>
+This dictionary works much like one you would pull off a shelf to find the meaning of a word, but instead of a definition, there is a single number that represents the emotional content, or <strong>sentiment</strong> of that word. The file I used contains 2477 words and phrase with scores ranging from -5 to +5. Neutral words (i.e. scored 0) are left off the list. The dictionary scores words based on both innate content (words like "amazing" and "angry"), as well as words that pick up sentiment from the context in which they are used (like "mandatory").
+</p>
+
+<p>
+Working with the database of song lyrics, each song has a text field which contains all words in the lyrics of that song, as well as additional fields that list the genre, chart year, artist, and album. Not all words in the lyrics will contribute to the lyric sentiment because they may not be in the dictionary. Given that a word is present in the dictionary, we can build a measure of the song's lyrics sentiment. Each point represents a single song, with the songs year mapped to color. Redder songs are nearer the present (2012 was the latest info in the database) and bluer songs are in the past (the 1950's).
+</p>
+
+<h2>Difference between scalar and tuple scoring</h2>
+
+<p> Consider the following lyrics from "Under the Bridge" by The Red Hot Chili Peppers:</p>
+
+<blockquote>
+<pre>
+It's hard to believe
+That there's nobody out there
+It's hard to believe
+That I'm all alone
+At least I have her love
+The city she loves me
+Lonely as I am
+Together we cry
+
+I don't ever want to feel
+Like I did that day
+Take me to the place I love
+Take me all that way
+</pre>
+</blockquote>
+
+
+<p> Given the sentiment dictionary, we can score the lyrics in two ways. Implemented in python the scoring functions would like the following:
+
+
+<div class="colA">
+
+<pre class="prettyprint code">
+# Python Scalar Scoring
+def scalar_score(scores, song):
+    lyrics = song.lyrics.split()
+    word_count = 0
+    score = 0
+    for word in lyrics:
+        if word in scores:
+            score_val = scores[word]
+            score += score_val
+            word_count += 1
+    if word_count > 0:
+        score /= word_count
+        
+    return score
+</pre>
+
+</div><div class="colB">
+
+<pre class="prettyprint code">
+# Python Tuple Scoring
+def tuple_score(scores, song):
+    lyrics = song.lyrics.split()
+    pos_word_count = 0
+    neg_word_count = 0
+    pos_score = 0
+    neg_score = 0
+    for word in lyrics:
+        if word in scores:
+            score_val = scores[word]
+            if score_val > 0:
+                pos_score += score_val
+                pos_word_count += 1
+            else:
+                neg_score += score_val
+                neg_word_count += 1
+    if pos_word_count > 0:
+        pos_score /= pos_word_count
+    if neg_word_count > 0:
+        neg_score /= neg_word_count
+        
+    return (pos_score, abs(neg_score))
+</pre>
+
+</div>
+
+
+
+
+<p>
+For "Under the Bridge", the scores using the above functions and dictionary give:
+</p>
+<blockquote>
+<pre>
+Scalar_Score = 0.63
+Tuple_Score = (1.61, 1.25)
+</pre>
+</blockquote>
+
+<p>
+The difference is easy to see from the code snippets above; scalar tracking just lumps together all the positive and negative sentiment while tuple scoring separately tracks the positive and negative contribution. From the tuple score above, we can see the lyrics for "Under the Bridge" actually contain some strong sentiment. Looking only at the scalar score, this is much less obvious. It's true that the scalar score communicates that the song is overall more positive, but the tuple scores accomplishes this while also displaying the negative component strength.
+
+<strong> Generally speaking, a two-component scoring tuple is superior to a single scalar value. </strong>
+
+<h2> Looking at the plots some more </h2>
+<p>
+The color map on the left has some interesting tendencies because of the discrete nature of the word-sentiment dictionary. Songs without any words along a given sentiment direction can fall on the zero of the axis but if a single sentiment word appears in the lyrics, the score immediately jumps to one. This explains the gaps in the figure along (0,1) for both axes. Additionally, "clumping" along integer values appears because of the way integer scores will tend to average. To really see this effect, consider difference between the plots below:
+</p>
+
+<div class="figureobject">
+<div class='colA'>
+<img src="images/contour_map.png" alt="contour map" width="590" height="600">
+</div><div class='colB'>
+<img src="images/contour_jittered_map.png" alt="contour map" width="590" height="600">
+</div>
+<div class="figurecaption">
+<p>
+<strong>Left</strong>: The raw sentiment scoring data is highly concentrated along integer lines. Because the dictionary does not score neutral words, there are additionally gaps between the 0 and 1 lines.
+</p>
+<p>
+<strong>Right</strong>: The tendency to fall along integer lines can be corrected by jittering all the data randomly a small amount.
+</p>
+</div>
+</div>
+
+
+
+<p> The danger of intepreting the plot on the left is that data is overwritten as more points are added on the integer lines. Shuffling the data can make discrepancies in the distribution show up over many plots, but it would be beneficial if a single plot better showed the sentiment distribution. To do this, I performed a "jitter" on each point (in the image above right), which moves it in a random direction so that points will not continually overlap.
+<p/>
+
+<pre class="prettyprint code">
+# Python Radial Jitter on a Tuple
+def radial_jitter(val1, val2, scale=0.1):
+    dr = scale * np.random.rand()
+    dth = np.random.rand() * 2 * np.pi
+    return val1 + dr * np.cos(dth), val2 + dr * np.sin(dth)
+</pre>
+
+<h2> more to come... </h2>
+
+
+
+
+
+
+<script src="https://google-code-prettify.googlecode.com/svn/loader/run_prettify.js"></script>
+
+</body>
+</html>

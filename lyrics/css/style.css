@@ -1,0 +1,49 @@
+
+body {
+
+    width: 1200px;
+    padding-left:16px;
+    font-size: 18px;
+    //font-family: 'Inconsolata','Consolas','Bitstream Vera Sans Mono','Courier New',Courier,monospace;
+}
+
+
+p {
+
+}
+
+.code {
+    background-color: #CCC;
+    margin-left:1%;
+    margin-right:1%;
+}
+
+.text {
+    background-color: #e80;
+    margin-left:4em;
+    width: 36em;
+}
+
+.colA {
+    top: 0px;
+    display: inline-block;
+    width: 50%;
+    vertical-align:top;
+}
+
+.colB {
+    top: 0px;
+    display: inline-block;
+    width: 50%;
+    vertical-align:top;
+}
+
+.figurecaption {
+    margin-left:50px;
+    margin-right:50px;
+
+}
+
+.figureobject {
+    border-style: solid;
+}

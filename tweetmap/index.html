@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+
+<meta charset="utf-8">
+<head>
+
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body>
+
+<div id="map"></div>
+<div id="info">
+    <div id="title">USA</div>
+    <div id="piechart"></div>
+    <div id="legend">
+        <div class='legend-title'>Average Tweet Sentiment</div>
+        <div class='legend-scale'>
+        <ul class='legend-labels'>
+            <li><span id="legend-negative"></span>-5 to -3</li>
+            <li><span id="legend-cool"></span>-3 to -1</li>
+            <li><span id="legend-neutral"></span>-1 to +1</li>
+            <li><span id="legend-warm"></span>+1 to +3</li>
+            <li><span id="legend-positive"></span>+3 to +5</li>
+    </div>
+</div>
+
+
+<script src="js/d3.v3.min.js"></script>
+<script src="js/topojson.v1.min.js"></script>
+<script src="js/mapApp.js"></script>
+
+<script>
+
+    mapApp.map("#map",600,400);
+    mapApp.pieChart("#piechart", 300, 300);
+
+</script>
+
+
+</body>
+</html>
