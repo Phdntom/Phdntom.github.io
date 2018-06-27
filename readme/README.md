@@ -4,13 +4,18 @@ __I want you to succeed and grow on this team. I will support you and advocate f
 ## Expectations of You
 * __You are a responsible individual.__ I will treat you as a talented and professional adult who can make informed decisions and follow through with actions. For more, see DRI - [DRI Quora](https://www.quora.com/How-well-does-Apples-Directly-Responsible-Individual-DRI-model-work-in-practice) and [DRI Medium](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4)
 
-* __Safe debate__ - You should be comfortable debating me and other team members. Other team members should feel comfortable debating you. Utilize discussions as a way to explore different angles of problems and improve as an individual and as a team.
+* __Safe debate__ - You should be comfortable debating with me and other team members. Other team members should feel comfortable debating with you. Utilize discussions as a way to explore different angles of problems and improve as an individual and as a team.
 
 * __Know why__ - Strive for high level understanding of our direction overall. Seek clarification and raise concerns early regarding goals of projects and reasoning behind different approaches.
 
-* __Invest in you__ - Please take time in your natural workflow to develop yourself professionally. Share new tech, best practices, and papers with your team. I value this activity and will support you in this pursuit.
+* __Invest in you__ - Please take time in your natural workflow to develop yourself professionally. Share new tech, best practices, papers, etc with your team. I value this activity and will support you in this pursuit.
 
-* __Give feedback__ - This may include but not limited to:  interactions with me and colleagues, specific annoyances and inefficiencies, general things which seem bad or “off”, etc. I will not treat feedback you give me as “complaining”; I will see it as a way we could improve as a team.
+* __Give feedback__ - I will not treat feedback you give me as “complaining”. I take each feedback seriously, and I plan to use feedback as a way to help you and improve the team. If you can offer a solution, that's a plus, but that is not required. I believe feedback should roughly adhere to these qualities:
+  * _Safety_ - you feel safe to give and get candid feedback
+  * _Effort_ - the distraction/energy/effort to give or get feedback should be low.
+  * _Benefit_ - there should be an impact that comes from the feedback you give.
+
+This may include but not limited to:  interactions with me and colleagues, specific annoyances and inefficiencies, general things which seem bad or “off”, etc. 
 
 ## Expectation of Me
 * __Happy and Effective__ - I am concerned about your happiness and your effectiveness. I want you to be successful and that, to a degree, means you are effective in your role. I will do my part to help balance these.
