@@ -37,5 +37,5 @@ __I want you to succeed and grow on this team. I will support you and advocate f
 
 * When sharing updates, I like larger milestones over incomplete pieces. This does not apply to sharing context when you are blocked, need input, etc.
 
-
+__WORK IN PROGRESS__
 
