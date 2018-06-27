@@ -8,7 +8,7 @@ __I want you to succeed and grow on this team. I will support you and advocate f
 
 * __Know why__ - You strive for high level understanding of our direction overall. Seek clarification and raise concerns early regarding goals of projects and reasoning behind different approaches.
 
-* __Invest in you__ - Please take time in your natural workflow to develop yourself professionally. Share new tech, best practices, papers, etc with your team. I value this activity and will support you in this pursuit.
+* __Invest in you__ - Please take time in your natural workflow to develop yourself professionally. Learn and share new tech, best practices, papers, etc with your team. I value this activity and will support you in this pursuit.
 
 * __Give feedback__ - I will not treat feedback you give me as “complaining”. I take each feedback seriously, and I plan to use feedback as a way to help you and improve the team. If you can offer a solution to a problem, that's a plus, but that is not required. You can give feedback on just about anything, including but not limited to interactions with me and colleagues, specific annoyances and inefficiencies, general things which seem bad or “off”, etc. Although I have painted feedback as negative here, you are encouraged to give positive feedback and let me know what _is_ working as well. I believe feedback should roughly adhere to these qualities:
   * _Safety_ - You feel safe to give and get candid feedback.
