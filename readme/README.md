@@ -14,8 +14,7 @@ __I want you to succeed and grow on this team. I will support you and advocate f
   * _Safety_ - you feel safe to give and get candid feedback
   * _Effort_ - the distraction/energy/effort to give or get feedback should be low.
   * _Benefit_ - there should be an impact that comes from the feedback you give.
-
-This may include but not limited to:  interactions with me and colleagues, specific annoyances and inefficiencies, general things which seem bad or “off”, etc. 
+You can give feedback on just about anything. This may include but not limited to interactions with me and colleagues, specific annoyances and inefficiencies, general things which seem bad or “off”, etc. 
 
 ## Expectation of Me
 * __Happy and Effective__ - I am concerned about your happiness and your effectiveness. I want you to be successful and that, to a degree, means you are effective in your role. I will do my part to help balance these.
