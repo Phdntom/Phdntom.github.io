@@ -1,5 +1,5 @@
 # Ryan, as your manager
-I want you to succeed and grow on this team. I will support you and advocate for you to the rest of the company.
+__I want you to succeed and grow on this team. I will support you and advocate for you to the rest of the company.__
 
 ## Expectations of You
 * __You are a responsible individual.__ I will treat you as a talented and professional adult who can make informed decisions and follow through with actions. For more, see DRI - DRI Quora and DRI Medium
@@ -11,6 +11,28 @@ I want you to succeed and grow on this team. I will support you and advocate for
 * __Invest in you__ - Please take time in your natural workflow to develop yourself professionally. Share new tech, best practices, and papers with your team. I value this activity and will support you in this pursuit.
 
 * __Give feedback__ - This may include but not limited to:  interactions with me and colleagues, specific annoyances and inefficiencies, general things which seem bad or “off”, etc. I will not treat feedback you give me as “complaining”; I will see it as a way we could improve as a team.
+
+## Expectation of Me
+* __Happy and Effective__ - I am concerned about your happiness and your effectiveness. I want you to be successful and that, to a degree, means you are effective in your role. I will do my part to help balance these.
+
+* __Helpful Resource__ - I want to be someone you come to for help when you are stuck. I will share experience, escalate issues to other people, and/or work with you to resolve blockers.
+
+* __Give context__ - I should be providing  you context about your projects, what other teams are doing, and what we are accomplishing as a team. I should be helping you to understand the "why". Why do this project? How does this help the business? Why this timeline for delivery?
+
+* __I adjust to you__ - While friction can exist in a team of diverse personalities, I believe the more senior members should adjust to their reports. I will work with each of you to understand your styles, and I will adjust to make each individual member as effective as possible in this team.
+
+* __1:1__ - A meeting to discuss life, the universe, and everything. Career goals, new ideas, and other questions are all on the table. I prefer this not be a status update. You can request a cadence you find most useful but I may request a compromise. Don’t hesitate to reschedule.
+
+## Schedules + Meetings + Updates
+* If you want to talk, just put something on my calendar.
+
+* If there is no room on my calendar, first check that I am alive. Next let me know and I will evict something less important so I can meet with you.
+
+* If you are pulled into too many meetings that you think are unproductive for you, let me know, and we can find compromise.
+
+* I prefer longer periods of uninterrupted work. Feel free to set your status to away and/or not check chat/email when you need to focus. If something is urgent, I will figure out how to reach you; otherwise, it’s not urgent.
+
+* When sharing updates, I like larger milestones over incomplete pieces. This does not apply to sharing context when you are blocked, need input, etc.
 
 
 
