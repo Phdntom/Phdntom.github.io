@@ -26,20 +26,18 @@ __I want you to succeed and grow on this team. I will support you and advocate f
 
 * __1:1__ - A meeting to discuss life, the universe, and everything. Career goals, new ideas, and other questions are all on the table. I prefer this not be a status update. You can request a cadence you find most useful but I may request a compromise. Don’t hesitate to reschedule.
 
-## Meetings + Updates
-* If you are pulled into too many meetings that you think are unproductive for you, let me know, and we can find compromise.
+## Updates, Time, Productive Conversations
+* __Meetings__ If you are pulled into too many meetings that you think are unproductive for you, let me know, and we can find compromise.
 
-* If you want to talk, check my calendar or message me. If there is no room on my calendar, first check that I am alive. Then, let me know and I will evict something less important so I can meet with you.
+* __Check-Ins__ If you want to talk, check my calendar or message me. If there is no room on my calendar, first check that I am alive. Then, let me know and I will evict something less important so I can meet with you.
 
-* When sharing updates, I like larger milestones over incomplete pieces. This does not apply to sharing context when you are blocked, need input, etc.
+* __Updates__ When sharing updates, I like larger milestones over incomplete pieces. This does not apply to sharing context when you are blocked, need input, etc.
 
-## Your time is _your_ time
-* If I message you outside work hours, don't feel obligated to respond in general. If something needs an urgent response, I will figure out how to reach you; otherwise, it’s not urgent.
+* __Your Time__ If I message you outside work hours, don't feel obligated to respond in general. If something needs an urgent response, I will figure out how to reach you; otherwise, it’s not urgent.
 
-## Work time is _your_ time
-* You are here because you are good at your job. Checking email/slack/etc is not your job. Members of this team and those external to this team do not need a response faster than 24 hours in nearly all cases; don't feel obligated to provide one. Being on-call is an exception to this; sorry engineers.
+* __Work Time__ You are here because you are good at your job. Checking email/slack/etc every hour is not your job. Members of this team and those external to this team do not need a response faster than 24 hours in nearly all cases; don't feel obligated to provide one. Being on-call is an exception to this; sorry engineers.
 
-* I prefer longer periods of uninterrupted work. Feel free to set your status to away and/or not check chat/email when you need to focus. For more on this topic, see [Deep Work](http://calnewport.com/books/deep-work/). I have a copy.
+* __Deep Work__ I prefer longer periods of uninterrupted work. Feel free to set your status to away and/or not check chat/email when you need to focus. For more on this topic, see [Deep Work](http://calnewport.com/books/deep-work/). I have a copy.
 
 
 
