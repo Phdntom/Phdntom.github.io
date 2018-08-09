@@ -26,16 +26,19 @@ __I want you to succeed and grow on this team. I will support you and advocate f
 
 * __1:1__ - A meeting to discuss life, the universe, and everything. Career goals, new ideas, and other questions are all on the table. I prefer this not be a status update. You can request a cadence you find most useful but I may request a compromise. Don’t hesitate to reschedule.
 
-## Schedules + Meetings + Updates
+## Meetings + Updates
 * If you are pulled into too many meetings that you think are unproductive for you, let me know, and we can find compromise.
 
 * If you want to talk, check my calendar or message me. If there is no room on my calendar, first check that I am alive. Then, let me know and I will evict something less important so I can meet with you.
+
+* When sharing updates, I like larger milestones over incomplete pieces. This does not apply to sharing context when you are blocked, need input, etc.
+
+## Your time is _your_ time
 
 * I prefer longer periods of uninterrupted work. Feel free to set your status to away and/or not check chat/email when you need to focus. For more on this topic, see [Deep Work](http://calnewport.com/books/deep-work/). I have a copy.
 
 * If I message you outside work hours, don't feel obligated to respond in general. If something needs an urgent response, I will figure out how to reach you; otherwise, it’s not urgent.
 
-* When sharing updates, I like larger milestones over incomplete pieces. This does not apply to sharing context when you are blocked, need input, etc.
 
 __WORK IN PROGRESS__
 
