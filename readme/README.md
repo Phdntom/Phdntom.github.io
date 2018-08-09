@@ -31,13 +31,11 @@ __I want you to succeed and grow on this team. I will support you and advocate f
 
 * __Updates__ - When sharing updates, I like larger milestones over incomplete pieces. This does not apply to sharing context when you are blocked, need input, etc.
 
-* __Your Time__ If I message you outside work hours, don't feel obligated to respond in general. If something needs an urgent response, I will figure out how to reach you; otherwise, it’s not urgent.
+* __Your Time__ - If I message you outside work hours, don't feel obligated to respond in general. If something needs an urgent response, I will figure out how to reach you; otherwise, it’s not urgent.
 
-* __Work Time__ You are here because you are good at your job. Checking email/slack/etc every hour is not your job. Members of this team and those external to this team do not need a response faster than 24 hours in nearly all cases; don't feel obligated to provide one.
+* __Work Time__ - You are here because you are good at your job. Checking email/slack/etc every hour is not your job. Members of this team and those external to this team do not need a response faster than 24 hours in nearly all cases; don't feel obligated to provide one.
 
-* __Deep Work__ I prefer longer periods of uninterrupted work. Feel free to set your status to away and/or not check chat/email when you need to focus. For more on this topic, see [Deep Work](http://calnewport.com/books/deep-work/). I have a copy.
-
-
+* __Deep Work__ - I prefer longer periods of uninterrupted work. Feel free to set your status to away and/or not check chat/email when you need to focus. For more on this topic, see [Deep Work](http://calnewport.com/books/deep-work/). I have a copy.
 
 
 __WORK IN PROGRESS__
