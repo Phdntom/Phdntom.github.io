@@ -29,11 +29,11 @@ __I want you to succeed and grow on this team. I will support you and advocate f
 ## Updates, Your Time, Productive Conversations
 * __Meetings__ - If you are pulled into too many meetings that you think are unproductive for you, let me know, and we can find compromise.
 
-* __Updates__ - When sharing updates, I like larger milestones over incomplete pieces. This does not apply to sharing context when you are blocked, need input, etc.
+* __Work Time__ - You are here because you are good at your job. Checking email/slack/etc every hour is not your job. Most questions do not need a response faster than 24 hours; don't feel obligated to provide one unless your good judgement indicates otherwise.
 
 * __Your Time__ - If I message you outside work hours, don't feel obligated to respond in general. If something needs an urgent response, I will figure out how to reach you; otherwise, it’s not urgent.
 
-* __Work Time__ - You are here because you are good at your job. Checking email/slack/etc every hour is not your job. Members of this team and those external to this team do not need a response faster than 24 hours in nearly all cases; don't feel obligated to provide one.
+* __Be Complete__ - Don't leave your audience hanging. When asking questions and sharing context, share self-contained snippets so people don't need to follow-up before they can even start to answer your question or weigh in.
 
 * __Deep Work__ - I prefer longer periods of uninterrupted work. Feel free to set your status to away and/or not check chat/email when you need to focus. For more on this topic, see [Deep Work](http://calnewport.com/books/deep-work/). I have a copy.
 
