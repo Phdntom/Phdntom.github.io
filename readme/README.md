@@ -33,7 +33,7 @@ __I want you to succeed and grow on this team. I will support you and advocate f
 
 * __Your Time__ - If I message you outside work hours, don't feel obligated to respond in general. If something needs an urgent response, I will figure out how to reach you; otherwise, it’s not urgent.
 
-* __Be Complete__ - Don't leave your audience hanging with no context. Share self-contained snippets so people don't need to follow-up before they can weigh-in or answer your question.
+* __Be Complete__ - Don't leave your audience hanging with no context. If your issue is technical, share snippets, or better, push your code to a branch, so people don't need to follow-up before they can weigh-in or answer your question.
 
 * __Deep Work__ - I prefer longer periods of uninterrupted work. Feel free to set your status to away and/or not check chat/email when you need to focus. For more on this topic, see [Deep Work](http://calnewport.com/books/deep-work/). I have a copy.
 
