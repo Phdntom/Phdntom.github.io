@@ -16,7 +16,7 @@ __I want you to succeed and grow on this team. I will support you and advocate f
   * _Benefit_ - There should be an impact that comes from the feedback you give.
 
 ## Expectations of Me
-* __Happy and Effective__ - I am concerned about your happiness _and_ your effectiveness. I want you to be successful and that, to a degree, means you are effective in your role.
+* __Happy and Effective__ - I am concerned with your happiness _and_ your effectiveness. I want you to be successful and that requires me to evaluate how effective you are in your role.
 
 * __Helpful Resource__ - I want to be someone you come to for help when you are stuck. I will share experience, escalate issues to other people, and/or work with you to resolve blockers.
 
