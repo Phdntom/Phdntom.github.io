@@ -29,13 +29,13 @@ __I want you to succeed and grow on this team. I will support you and advocate f
 ## Productive Time Usage
 * __Meetings__ - If you are pulled into too many meetings that you think are unproductive for you, let me know, and we can find compromise. I encourage you to control which meetings you attend as a first step.
 
-* __Work Time__ - You are here because you are good at your job. Checking email/slack/etc every hour is not your job. Most questions do not need a response faster than 24 hours; don't feel obligated to provide one unless your good judgement indicates otherwise.
+* __Work time__ - You are here because you are good at your job. Checking email/slack/etc every hour is not your job. Most questions do not need a response faster than 24 hours; don't feel obligated to provide one unless your good judgement indicates otherwise.
 
-* __Your Time__ - If I message you outside work hours, don't feel obligated to respond in general. If something needs an urgent response, I will figure out how to reach you; otherwise, it’s not urgent.
+* __Your time__ - If I message you outside work hours, don't feel obligated to respond in general. If something needs an urgent response, I will figure out how to reach you; otherwise, it’s not urgent.
 
-* __Be Complete__ - Don't leave your audience hanging with no context. If your issue is technical, at minimum share code snippets or data figures. Even better, push your code to a branch for review so others can weigh-in on your question right away. Async technical discussion is ok, async "Are you available?" is not.
+* __Be complete__ - Don't leave your audience hanging with no context. If your issue is technical, at minimum share code snippets or data figures. Even better, push your code to a branch for review so others can weigh-in on your question right away. Async technical discussion is ok, async "Are you available?" is not.
 
-* __Deep Work__ - I prefer longer periods of uninterrupted work. Feel free to set your status to away and/or not check chat/email when you need to focus. For more on this topic, see [Deep Work](http://calnewport.com/books/deep-work/). I have a copy.
+* __Deep work__ - I prefer longer periods of uninterrupted work. Feel free to set your status to away and/or not check chat/email when you need to focus. For more on this topic, see [Deep Work](http://calnewport.com/books/deep-work/). I have a copy.
 
 
 __WORK IN PROGRESS__
