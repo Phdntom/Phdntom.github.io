@@ -35,7 +35,7 @@ __I want you to succeed and grow on this team. I will support you and advocate f
 
 * __Be complete__ - Don't leave your audience hanging with no context. If your issue is technical, at minimum share code snippets or data figures. Even better, push your code to a branch for review so others can weigh-in on your question right away. Async technical discussion is ok, async "Are you available?" is not.
 
-* __Deep work__ - I see value in longer periods of uninterrupted work. Feel free to set your status to away and/or not check chat/email when you need to focus. For more on some of the science behind this idea, see [Deep Work](http://calnewport.com/books/deep-work/). I have a copy.
+* __Deep work__ - I prefer longer periods of uninterrupted work. Feel free to set status as away and/or not check chat/email when you need to focus. For more on some of the science behind this idea, see [Deep Work](http://calnewport.com/books/deep-work/); I have a copy.
 
 
 __WORK IN PROGRESS__
