@@ -16,13 +16,13 @@ __I want you to succeed and grow on this team. I will support you and advocate f
   * _Benefit_ - There should be an impact that comes from the feedback you give.
 
 ## Expectations of Me
-* __Happy and Effective__ - I am concerned with your happiness _and_ your effectiveness. I want you to be successful and that requires me to evaluate how effective you are in your role.
+* __Happy and effective__ - I am concerned with your happiness _and_ your effectiveness. I want you to be successful and that requires me to evaluate how effective you are in your role.
 
-* __Helpful Resource__ - I want to be someone you come to for help when you are stuck. I will share experience, escalate issues to other people, and/or work with you to resolve blockers.
+* __Helpful resource__ - I want to be someone you come to for help when you are stuck. I will share experience, escalate issues to other people, and/or work with you to resolve blockers.
 
 * __Give context__ - I should be providing you context about your projects, what other teams are doing, and what we are accomplishing as a team. I should be helping you to understand the "why". Why do this project? How does this help the business? Why this timeline for delivery?
 
-* __I adjust to you__ - While friction can exist in a team of diverse personalities, I believe the more senior members should do most of the adjusting. I will work with each of you to understand your styles, and I will adjust to make each individual member as effective as possible in this team.
+* __Adjust to you__ - While friction can exist in a team of diverse personalities, I believe the more senior members should do most of the adjusting. I will work with each of you to understand your styles, and I will adjust to make each individual member as effective as possible in this team.
 
 * __1:1__ - A meeting to discuss life, the universe, and everything. Career goals, new ideas, and other questions are all on the table. I prefer this not be a status update. You can request a cadence you find most useful but I may request a compromise. Don’t hesitate to reschedule. If there is no room on my calendar, first check that I am alive. Then, let me know and I will evict something less important so I can meet with you.
 
