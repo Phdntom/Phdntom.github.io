@@ -24,7 +24,7 @@ __I want you to succeed and grow on this team. I will support you and advocate f
 
 * __Adjust to you__ - While friction can exist in a team of diverse personalities, I believe the more senior members should do most of the adjusting. I will work with each of you to understand your styles, and I will adjust to make each individual member as effective as possible in this team.
 
-* __Available to chat__ - Regular 1:1's to discuss career goals, new ideas, and other questions are all on the table. I prefer this not be a status update. You can request a cadence you find most useful but I may request a compromise. Don’t hesitate to reschedule. If there is no room on my calendar, first check that I am alive. Then, let me know and I will evict something less important so I can meet with you.
+* __Available to chat__ - Regular 1:1's where we discuss career goals, new ideas, and other questions. I prefer this not be a status update. You can request a cadence you find most useful but I may request a compromise. Don’t hesitate to reschedule. If there is no room on my calendar, first check that I am alive. Then, let me know and I will evict something less important so I can meet with you.
 
 ## Productive Time Usage
 * __Meetings__ - If you are pulled into too many meetings that you think are unproductive for you, let me know, and we can find compromise. I encourage you to control which meetings you attend as a first step.
